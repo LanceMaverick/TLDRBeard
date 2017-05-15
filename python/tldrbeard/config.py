@@ -1,0 +1,3 @@
+LANGUAGE = 'english'
+SENTENCE_COUNT = 5
+
